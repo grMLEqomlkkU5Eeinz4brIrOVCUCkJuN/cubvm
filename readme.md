@@ -10,3 +10,14 @@ planned:
 - assembly dialect
 - interactive virtual cube
 - graphics (backburner)
+
+```
+; perform sexy move 3 times
+R U R' U' ;
+R U R' U' ;
+R U R' U' ;
+
+; done
+*
+;
+```
